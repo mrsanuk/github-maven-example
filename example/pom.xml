@@ -165,11 +165,4 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<servers>
-		 <server>
-		 <id>github</id>
-		 <username>mrsanuk</username>
-		 <password>Djkbytwm2523413</password>
-		 </server>  
-	</servers>
 </project>
